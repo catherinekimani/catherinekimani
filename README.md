@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id='header' align='center>
+<img src="https://media2.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp?cid=ecf05e4778xot52zqekixy093cs9hytzvesswq7p2n2fy5po&rid=200w.webp&ct=s" width="100"/>
+</div>
 <!--
 **catherinekimani/catherinekimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
