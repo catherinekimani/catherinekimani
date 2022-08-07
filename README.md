@@ -1,6 +1,14 @@
-# 💫 About Me:
-- 🔭 I’m currently working on cool Projects<br>- 🌱 I’m currently learning React
+<h1 align="center">Hi , I'm Catherine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
+
+
+# 💫 About Me:
+- 🔭 I’m currently working on cool Projects
+- 🌱 I’m currently learning React
+- 📫 How to reach me **catherinekimani882@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/kay.kate.3154) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/catherine-kimani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ckimani882) 
@@ -17,9 +25,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=catherinekimani&icon=0&color=0)](https://visitcount.itsvg.in)
