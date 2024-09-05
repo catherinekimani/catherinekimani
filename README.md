@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on cool Projects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me **catherinekimani882@gmail.com**
 
 ## 🌐 Socials:
